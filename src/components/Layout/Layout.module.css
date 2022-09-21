@@ -1,12 +1,12 @@
 .body {
-    height: 100vh;
+    height: auto;
     display: flex;
     flex-direction: column;
     background-color: rgb(218, 255, 245);
 }
 
 .main {
-    margin: 1rem auto;
+    margin: 5rem auto;
     width: 100%;
     max-width: 75rem;
 }

@@ -1,6 +1,7 @@
 import { Fragment } from "react";
 import Layout from "../components/Layout/Layout";
-import "../styles/globals.css";
+import { wrapper } from "../store/index";
+import "../../styles/globals.css";
 
 function MyApp({ Component, pageProps }) {
   return (

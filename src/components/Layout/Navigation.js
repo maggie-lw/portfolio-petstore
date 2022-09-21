@@ -6,7 +6,7 @@ const Navigation = () => {
   return (
     <header className={classes.header}>
       <div className={classes.logo}>
-        <Link href="/">React Pets</Link>
+        <Link href="/">React Games Store</Link>
       </div>
       <nav>
         <ul>
